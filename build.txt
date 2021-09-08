@@ -1,0 +1,3 @@
+displayName = TouhouFantasyMod.Beta
+author = mAliN
+version = 0.1
