@@ -1,3 +1,4 @@
-displayName = TouhouFantasyMod.Beta
-author = mAliN
+displayName = TouhouFantasyMod
+author = Akirain/ว๏มุ
 version = 0.1
+homepage = https://touhoufantasymod.fandom.com/zh/wiki/TouhouFantasyMod_Wiki

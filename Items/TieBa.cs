@@ -22,8 +22,8 @@ namespace TouhouFantasyMod.Items
         public override void AddRecipes()
         {
             CreateRecipe()
-        .   AddIngredient(ItemID.WaterBucket, 1)
-        .   Register();
+            .AddIngredient(ItemID.WaterBucket, 1)
+            .Register();
         }
     }
 }
